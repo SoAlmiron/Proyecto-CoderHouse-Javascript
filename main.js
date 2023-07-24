@@ -70,7 +70,7 @@ function buyClothes() {
     }
 
     alert ("Tu compra final sin envio es de: $" + ticket);
-}
+} 
 
 function shipping (ticket) {
     while (ticket !== 0){
